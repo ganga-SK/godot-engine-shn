@@ -14,8 +14,11 @@ Ninja Frog is a 2D game built using the Godot Engine. In this game, you control 
 [link to video](https://github.com/ganga-SK/godot-engine-shn/releases/download/v1.0.0/demo.mp4)
 ## How it Works ?
 1. Use the arrow keys (or designated controls) to move the frog through the terrain, avoiding obstacles.
-2. <video src="ttps://github.com/ganga-SK/godot-engine-shn/releases/download/v1.0.0/demo.mp4" controls="controls" style="max-width: 100%;">
-</video>
+   
+
+https://github.com/user-attachments/assets/31dc419b-482c-4a0b-ac37-da567cee97da
+
+
 
 ## How to configure and Run
 1. Clone the repository
